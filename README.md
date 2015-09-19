@@ -1,5 +1,5 @@
-# cs150FinalProject
-My first shot at writing a full fleged Java program. A user is allowed to sketch digits, and my program compares the sketched digit's RGB values against those fed into my own data set. 
+# DigitIdentify
+My first shot at writing a full fleged Java program. This was also my final project for my introductory CS class. A user is allowed to sketch digits, and my program compares the sketched digit's RGB values against those fed into my own data set. 
 
 ##Author
 Shiv Toolsidass
